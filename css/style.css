@@ -488,6 +488,7 @@ form{
     margin-bottom: -76px;
     position: relative;
     z-index: 1 ;
+    border-radius: 10px;
 }
 
 form .form-inner{
